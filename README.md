@@ -1,7 +1,7 @@
 # Checkers | Javascript | Game | Advanced
 
 ## Live Link
-https://jacekbwwa.github.io/CheckersMultiJumpJB/index.html
+https://jacekbwwa.github.io/Checkers-multijump-JB/index.html
 
 ## Checkers | Advanced Javascript Game with Multijumping, author: Jacek Byzdra  
 
