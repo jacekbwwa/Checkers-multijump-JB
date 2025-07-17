@@ -107,13 +107,13 @@ h2 {
 
 /* King indicator */
  .piece.king::after {
-    content: "♔";
+    content: "♛";
     position: absolute;
     top: 5px;
     left: 50%;
     transform: translateX(-50%);
     font-size: 28px;
-    color: gold;
+    color: #00ff85;
     font-weight: bold;
     text-shadow: 0 0 5px black;
     pointer-events: none;
@@ -504,8 +504,8 @@ button:focus-visible {
 
 @media (max-width: 430px) {
     #board {
-        max-width: 100vw;
-        height: 100vw;
+        max-width: 120vw;
+        height: 120vw;
     }
 
     h1 {
